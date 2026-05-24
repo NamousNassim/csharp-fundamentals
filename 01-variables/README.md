@@ -14,3 +14,9 @@
 - string : stores text such as 'Hello Nassim'
 
 - bool stores values with the two states true or false
+
+
+# Constants 
+
+- The const keyword is useful when you want a variable to always store the same value, so that others (or yourself) won't mess up your code. An example that is often referred to as a constant, is PI (3.14159...).
+

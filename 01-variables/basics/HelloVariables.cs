@@ -3,7 +3,7 @@ string name = "Nassim";
 decimal salary = 1000m;
 float height = 180f;
 bool isDeveloper = true;
-char grade = "A";
+char grade = 'A';
 
 
 Console.WriteLine($"My name is {name} my age is {age} my current salary is {salary}");
